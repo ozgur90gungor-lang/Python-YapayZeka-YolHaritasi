@@ -1,3 +1,12 @@
+
+# Python ile Yapay Zekâ Öğrenme Yol Haritası
+
+Bu yol haritası, Python programlama dilini kullanarak yapay zekâ alanında uzmanlaşmak için adım adım bir rehber sunmaktadır.
+
+
+
+
+
 | ✅ | Aşama                           | Konular                                                                                                          | Kaynak / Araç                                | Mini Proje                                                      | Test / Görev                           |
 | - | ------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------- | -------------------------------------- |
 | ⬜ | 1. Başlangıç (Python Temelleri) | Değişkenler, veri tipleri, koşullar, döngüler, fonksiyonlar, list/dict/tuple/set, dosya işlemleri, hata yönetimi | Python Docs, W3Schools, Jupyter Notebook     | Not Defteri Uygulaması                                          | Quiz: 20 temel Python sorusu           |
