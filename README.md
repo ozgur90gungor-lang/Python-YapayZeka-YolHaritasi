@@ -1,0 +1,2 @@
+# Python-YapayZeka-YolHaritasi
+Python
