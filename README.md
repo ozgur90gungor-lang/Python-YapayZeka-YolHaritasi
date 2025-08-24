@@ -1,8 +1,11 @@
-# Python-YapayZeka-YolHaritasi
-Python
-
-
-<img width="1184" height="825" alt="Screenshot 2025-08-24 012749" src="https://github.com/user-attachments/assets/82637e60-471a-4eba-a3a2-11afbf766f4c" />
-
-
-https://python.sitesi.web.tr/python-dili.html
+| ✅ | Aşama                           | Konular                                                                                                          | Kaynak / Araç                                | Mini Proje                                                      | Test / Görev                           |
+| - | ------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------- | -------------------------------------- |
+| ⬜ | 1. Başlangıç (Python Temelleri) | Değişkenler, veri tipleri, koşullar, döngüler, fonksiyonlar, list/dict/tuple/set, dosya işlemleri, hata yönetimi | Python Docs, W3Schools, Jupyter Notebook     | Not Defteri Uygulaması                                          | Quiz: 20 temel Python sorusu           |
+| ⬜ | 2. Orta Seviye Python           | OOP, modüller & paketler, pip, virtualenv, unit testing, dekoratörler, generator, threading                      | RealPython, Corey Schafer YT                 | Kütüphane Yönetim Sistemi                                       | Küçük script: Dosya sıralayıcı         |
+| ⬜ | 3. Veri Bilimi Temelleri        | Numpy, Pandas, Matplotlib, Seaborn, İstatistik & Olasılık, Lineer Cebir                                          | Kaggle, DataCamp                             | COVID-19 Veri Analizi                                           | CSV’den veri okuyup grafik çiz         |
+| ⬜ | 4. Makine Öğrenmesi (ML)        | Scikit-learn, Veri ön işleme, Regresyon, Sınıflandırma, Kümeleme, Model değerlendirme, Hyperparameter tuning     | Hands-On ML (Aurélien Géron)                 | Ev Fiyat Tahmini, Spam Tespiti                                  | Quiz: Algoritma seçme soruları         |
+| ⬜ | 5. Derin Öğrenme (DL)           | TensorFlow/Keras, ANN, CNN, RNN, LSTM, Transfer Learning, GPU/Colab                                              | DeepLearning.ai (Andrew Ng), TensorFlow Docs | MNIST El Yazısı Tanıma, Duygu Analizi                           | Görev: Kendi CNN mimarini kur          |
+| ⬜ | 6. NLP & LLM’ler                | NLP, Transformers, Hugging Face, BERT, GPT, Türkçe NLP kütüphaneleri                                             | Hugging Face, OpenAI Docs                    | Chatbot Geliştirme, Metin Özetleme                              | Görev: Bir cümleyi sınıflandıran model |
+| ⬜ | 7. Reinforcement Learning       | RL temelleri, Q-learning, OpenAI Gym, Deep Q-Networks                                                            | Sutton & Barto (RL kitabı)                   | Oyun oynayan yapay zekâ (Snake, CartPole)                       | RL algoritması akışını açıklama        |
+| ⬜ | 8. MLOps & Deployment           | Flask/FastAPI, Docker, Kubernetes, CI/CD, Model deployment, Model versiyonlama                                   | FastAPI Docs, Docker Docs                    | AI tabanlı Web Servisi                                          | Görev: Modelini Flask API’ye koy       |
+| ⬜ | 9. Final Proje (Gerçek Dünya)   | Tüm öğrendiklerinin birleşimi                                                                                    | -                                            | SaaS Platformu (örn. AI Eğitim Platformu, Görüntü Analiz Aracı) | Sunum + Kod Review                     |
